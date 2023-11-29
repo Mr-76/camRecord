@@ -1,0 +1,2 @@
+0 2-10/2 * * * script.sh
+roda das 2 as 10 de 2 em 2 hrs
